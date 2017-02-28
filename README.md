@@ -1,10 +1,12 @@
 
-## clone main & submodule
+## hexo blog
 
-
+### clone main & submodule
+```
 git clone git@github.com:ceylog/blog.git --recursive
-
 cd blog
+```
+
 ### install dependencies 
 npm install
 
