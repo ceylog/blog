@@ -1,26 +1,24 @@
 
-clone main & submodule
+## clone main & submodule
 
-```
+
 git clone git@github.com:ceylog/blog.git --recursive
 
 cd blog
-## install dependencies 
+### install dependencies 
 npm install
 
-## add new article
+### add new article
 hexo new post title
 
-## clean public folder
+### clean public folder
 hexo clean
 
-## generate site
+### generate site
 hexo g
 
-## preview http://localhost:4000
+### preview http://localhost:4000
 hexo s
 
-## deploy to github pages
+### deploy to github pages
 hexo d
-
-```
