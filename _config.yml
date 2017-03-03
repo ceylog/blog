@@ -81,3 +81,9 @@ disqus_shortname: wglgg
 baidu_analytics: 71481116ee0fd744a092e4317c9f870f
 duoshuo_share: true
 duoshuo_hotartical: true
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
